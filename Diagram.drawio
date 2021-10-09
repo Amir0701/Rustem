@@ -1,1 +1,160 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T07:51:30.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="15.5.0" etag="A2HXZeyJk_mQl-XevcBL" type="github"><diagram id="cXQYrryiy8FzPHADtqZ1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-09T09:10:58.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="pTHkj9Dei4hJG2cgxodZ" version="15.5.0" type="github">
+  <diagram id="cXQYrryiy8FzPHADtqZ1" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RcerM-MoOYommtyll1Hw-1" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-3" value="Переход к регистрации" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="sourcePoint" />
+            <mxPoint x="240" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-5" value="Ввод данных" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="250" y="160" as="sourcePoint" />
+            <mxPoint x="370" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-7" value="Данные добавлены" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.1;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.3;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RcerM-MoOYommtyll1Hw-6" target="RcerM-MoOYommtyll1Hw-4">
+          <mxGeometry x="0.0233" y="-7" relative="1" as="geometry">
+            <mxPoint x="330" y="219" as="sourcePoint" />
+            <mxPoint x="270" y="219" as="targetPoint" />
+            <mxPoint x="7" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-8" value="Регистрация прошла успешно" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1.2;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.4;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RcerM-MoOYommtyll1Hw-4" target="RcerM-MoOYommtyll1Hw-2">
+          <mxGeometry x="-0.013" y="-8" relative="1" as="geometry">
+            <mxPoint x="190" y="220" as="sourcePoint" />
+            <mxPoint x="90" y="220" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-10" value="Переход к размещению объявления" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-12" value="Ввод данных" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="290" y="260" as="sourcePoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-13" value="Объявление успешно размещена" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="340" as="sourcePoint" />
+            <mxPoint x="80" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="404" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-15" value="Данные добавлены" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="290" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-16" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;entryX=0.4;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RcerM-MoOYommtyll1Hw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="74" y="110" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-19" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RcerM-MoOYommtyll1Hw-2" target="RcerM-MoOYommtyll1Hw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-22" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="390" as="sourcePoint" />
+            <mxPoint x="380" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="390" />
+              <mxPoint x="200" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-25" value="Просмотр данных" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="520" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="730" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-29" value="Просмотр данных собственника" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="530" y="390" as="sourcePoint" />
+            <mxPoint x="730" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-31" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;exitX=0.6;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RcerM-MoOYommtyll1Hw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="370" as="sourcePoint" />
+            <mxPoint x="76" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="65" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-35" value="Метод регистрации" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-37" value="Метод размещения объявлений" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-38" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;exitX=0.489;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RcerM-MoOYommtyll1Hw-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359" y="120" as="sourcePoint" />
+            <mxPoint x="375" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="375" y="109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcerM-MoOYommtyll1Hw-40" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;exitX=0.082;exitY=1.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RcerM-MoOYommtyll1Hw-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+            <mxPoint x="408" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
