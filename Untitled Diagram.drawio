@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T14:20:21.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="RWMcADNMJi8140oOFKS3" type="github"><diagram id="v8sT4L_vSeO-1ac-XPsg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-08T14:44:44.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nv7cQIVuGvdWja0_sDWy" version="15.7.0" type="github">
+  <diagram id="v8sT4L_vSeO-1ac-XPsg" name="Page-1">
+    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="384" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-3" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; letter-spacing: -0.08px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Нажать на кнопку зарегистрироваться &lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-5" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: -0.08px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Ввести почту&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="339" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=12;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-5" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-7" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; letter-spacing: -0.08px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Ввести пароль&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="339" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=14;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-11" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; letter-spacing: -0.08px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Ввести имя&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="339" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=14;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-13" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; letter-spacing: -0.08px ; text-align: left ; background-color: rgb(255 , 255 , 255) ; font-size: 13px&quot;&gt;Нажать на кнопку зарегистрироваться &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="339" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=14;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-15" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; letter-spacing: -0.08px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Система выводит уведомление, что пользователь успешно зарегистрировался&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="269" y="557" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-15" parent="1" target="NVcBzsuJI9oS2OLaKLbh-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="385" y="630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-19" value="Почта уже существует" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=14;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-18" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="590" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-20" value="Почта не существует" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=14;" edge="1" source="NVcBzsuJI9oS2OLaKLbh-18" parent="1">
+          <mxGeometry x="-1" y="10" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVcBzsuJI9oS2OLaKLbh-23" target="NVcBzsuJI9oS2OLaKLbh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcBzsuJI9oS2OLaKLbh-23" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; letter-spacing: -0.08px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Система попросит ввести другую почту &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
